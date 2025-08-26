@@ -1,0 +1,32 @@
+{
+  "8351933155": {
+    "token": "8293816063:AAHpfhi4x0dB6pgtmBreRZq9RX39mDc2YtI",
+    "commands": {
+      "/start": "salom"
+    },
+    "8289476765:AAGsxJWdN9Xi0_6YYM3xhobY5achMkBnP6M": {
+      "commands": {
+        "/start": "salom"
+      },
+      "bot_username": "bfhuafbakugeflBot"
+    }
+  },
+  "7599652129": {
+    "8466263563:AAH-MdlPqzhA4V-pt3tXH_AR1QmcefwR4wU": {
+      "commands": {
+        "/start": "salom"
+      },
+      "bot_username": "botyaratuvch1_bot",
+      "bot_first_name": "bot yaratuvchi",
+      "created_at": "2025-08-26T08:33:11+00:00"
+    },
+    "8376322580:AAFxZb1A4yMjJJEEr-iZzv-SNkHiulDRBHk": {
+      "commands": {
+        "/start": "salom"
+      },
+      "bot_username": "cbqivuqeuygfbja_bot",
+      "bot_first_name": "tekshiruv2",
+      "created_at": "2025-08-26T08:56:05+00:00"
+    }
+  }
+}

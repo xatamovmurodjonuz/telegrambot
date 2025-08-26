@@ -1,0 +1,268 @@
+2025-08-24 23:44:26,842 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-24 23:44:26,842 - __main__ - ERROR - Xatolik yuz berdi: 'ClientSession' object is not callable
+2025-08-24 23:44:26,842 - __main__ - INFO - Bot to'xtatildi.
+2025-08-24 23:44:35,198 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-24 23:44:35,198 - __main__ - ERROR - Xatolik yuz berdi: 'ClientSession' object is not callable
+2025-08-24 23:44:35,213 - __main__ - INFO - Bot to'xtatildi.
+2025-08-24 23:47:00,295 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000213188B70D0>
+2025-08-24 23:47:49,308 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-24 23:47:49,308 - __main__ - ERROR - Xatolik yuz berdi: 'ClientSession' object is not callable
+2025-08-24 23:47:49,308 - __main__ - INFO - Bot to'xtatildi.
+2025-08-24 23:47:49,353 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002D27F952E50>
+2025-08-24 23:48:08,728 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-24 23:48:08,728 - __main__ - ERROR - Xatolik yuz berdi: 'ClientSession' object is not callable
+2025-08-24 23:48:08,728 - __main__ - INFO - Bot to'xtatildi.
+2025-08-24 23:48:08,772 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001A979A23190>
+2025-08-24 23:51:03,568 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-24 23:51:03,568 - __main__ - ERROR - Xatolik yuz berdi: 'ClientSession' object is not callable
+2025-08-24 23:51:03,568 - __main__ - INFO - Bot to'xtatildi.
+2025-08-24 23:51:03,599 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002482C1C6350>
+2025-08-25 00:07:21,737 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 00:07:24,109 - __main__ - ERROR - Xatolik yuz berdi: Telegram server says Unauthorized
+2025-08-25 00:07:24,110 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:10:27,973 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:10:30,451 - __main__ - ERROR - Xatolik yuz berdi: Telegram server says Unauthorized
+2025-08-25 12:10:30,452 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:12:00,354 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:12:00,858 - __main__ - ERROR - Xatolik yuz berdi: Telegram server says Unauthorized
+2025-08-25 12:12:00,859 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:12:43,269 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:12:43,770 - __main__ - ERROR - Xatolik yuz berdi: Telegram server says Unauthorized
+2025-08-25 12:12:43,771 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:13:30,175 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:13:30,657 - __main__ - INFO - Bot: @bfhuafbakugeflBot (ID: 8289476765)
+2025-08-25 12:13:30,658 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:13:30,822 - aiogram.dispatcher - INFO - Run polling for bot @bfhuafbakugeflBot id=8289476765 - 'bqsiBKDCA'
+2025-08-25 12:13:38,221 - aiogram.event - INFO - Update id=573458475 is handled. Duration 500 ms by bot id=8289476765
+2025-08-25 12:13:43,562 - aiogram.event - INFO - Update id=573458476 is handled. Duration 266 ms by bot id=8289476765
+2025-08-25 12:13:59,779 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001F4DE707890>
+2025-08-25 12:13:59,780 - aiogram.event - INFO - Update id=573458477 is handled. Duration 484 ms by bot id=8289476765
+2025-08-25 12:14:08,414 - aiogram.event - INFO - Update id=573458478 is handled. Duration 186 ms by bot id=8289476765
+2025-08-25 12:14:09,927 - aiogram.event - INFO - Update id=573458479 is handled. Duration 217 ms by bot id=8289476765
+2025-08-25 12:14:24,503 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:24,503 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8289476765)
+2025-08-25 12:14:25,673 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:25,673 - aiogram.dispatcher - WARNING - Sleep for 1.500360 seconds and try again... (tryings = 1, bot id = 8289476765)
+2025-08-25 12:14:27,373 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:27,374 - aiogram.dispatcher - WARNING - Sleep for 1.991673 seconds and try again... (tryings = 2, bot id = 8289476765)
+2025-08-25 12:14:29,526 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:29,526 - aiogram.dispatcher - WARNING - Sleep for 2.735561 seconds and try again... (tryings = 3, bot id = 8289476765)
+2025-08-25 12:14:32,429 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:32,430 - aiogram.dispatcher - WARNING - Sleep for 3.607974 seconds and try again... (tryings = 4, bot id = 8289476765)
+2025-08-25 12:14:36,240 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:36,241 - aiogram.dispatcher - WARNING - Sleep for 4.790461 seconds and try again... (tryings = 5, bot id = 8289476765)
+2025-08-25 12:14:41,204 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:41,205 - aiogram.dispatcher - WARNING - Sleep for 4.961920 seconds and try again... (tryings = 6, bot id = 8289476765)
+2025-08-25 12:14:46,341 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:46,342 - aiogram.dispatcher - WARNING - Sleep for 4.939543 seconds and try again... (tryings = 7, bot id = 8289476765)
+2025-08-25 12:14:51,449 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:51,450 - aiogram.dispatcher - WARNING - Sleep for 5.024015 seconds and try again... (tryings = 8, bot id = 8289476765)
+2025-08-25 12:14:58,329 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:14:58,330 - aiogram.dispatcher - WARNING - Sleep for 5.166917 seconds and try again... (tryings = 9, bot id = 8289476765)
+2025-08-25 12:15:03,660 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:03,660 - aiogram.dispatcher - WARNING - Sleep for 5.140873 seconds and try again... (tryings = 10, bot id = 8289476765)
+2025-08-25 12:15:08,985 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:08,986 - aiogram.dispatcher - WARNING - Sleep for 5.122861 seconds and try again... (tryings = 11, bot id = 8289476765)
+2025-08-25 12:15:14,284 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:14,285 - aiogram.dispatcher - WARNING - Sleep for 5.052556 seconds and try again... (tryings = 12, bot id = 8289476765)
+2025-08-25 12:15:19,486 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:19,487 - aiogram.dispatcher - WARNING - Sleep for 5.153053 seconds and try again... (tryings = 13, bot id = 8289476765)
+2025-08-25 12:15:24,814 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:24,814 - aiogram.dispatcher - WARNING - Sleep for 4.977918 seconds and try again... (tryings = 14, bot id = 8289476765)
+2025-08-25 12:15:30,001 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:30,002 - aiogram.dispatcher - WARNING - Sleep for 5.092018 seconds and try again... (tryings = 15, bot id = 8289476765)
+2025-08-25 12:15:35,239 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:35,239 - aiogram.dispatcher - WARNING - Sleep for 4.958310 seconds and try again... (tryings = 16, bot id = 8289476765)
+2025-08-25 12:15:40,371 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:40,371 - aiogram.dispatcher - WARNING - Sleep for 5.030601 seconds and try again... (tryings = 17, bot id = 8289476765)
+2025-08-25 12:15:45,615 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:45,615 - aiogram.dispatcher - WARNING - Sleep for 4.912671 seconds and try again... (tryings = 18, bot id = 8289476765)
+2025-08-25 12:15:50,686 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:50,687 - aiogram.dispatcher - WARNING - Sleep for 4.912848 seconds and try again... (tryings = 19, bot id = 8289476765)
+2025-08-25 12:15:55,776 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:15:55,777 - aiogram.dispatcher - WARNING - Sleep for 5.165649 seconds and try again... (tryings = 20, bot id = 8289476765)
+2025-08-25 12:16:01,147 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:16:01,148 - aiogram.dispatcher - WARNING - Sleep for 5.002311 seconds and try again... (tryings = 21, bot id = 8289476765)
+2025-08-25 12:16:06,326 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:16:06,327 - aiogram.dispatcher - WARNING - Sleep for 4.833339 seconds and try again... (tryings = 22, bot id = 8289476765)
+2025-08-25 12:16:11,327 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:16:11,327 - aiogram.dispatcher - WARNING - Sleep for 5.039241 seconds and try again... (tryings = 23, bot id = 8289476765)
+2025-08-25 12:16:16,545 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:16:16,545 - aiogram.dispatcher - WARNING - Sleep for 4.912340 seconds and try again... (tryings = 24, bot id = 8289476765)
+2025-08-25 12:16:21,867 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramUnauthorizedError: Telegram server says Unauthorized
+2025-08-25 12:16:21,868 - aiogram.dispatcher - WARNING - Sleep for 4.957899 seconds and try again... (tryings = 25, bot id = 8289476765)
+2025-08-25 12:16:23,644 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:16:23,647 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:16:23,647 - aiogram.dispatcher - INFO - Polling stopped for bot @bfhuafbakugeflBot id=8289476765 - 'bqsiBKDCA'
+2025-08-25 12:16:23,649 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:16:25,501 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:16:29,075 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:16:29,077 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:16:29,234 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:16:54,300 - aiogram.event - INFO - Update id=115074987 is handled. Duration 577 ms by bot id=8369850091
+2025-08-25 12:16:55,486 - aiogram.event - INFO - Update id=115074988 is handled. Duration 188 ms by bot id=8369850091
+2025-08-25 12:17:03,225 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000020963297750>
+2025-08-25 12:17:03,225 - aiogram.event - INFO - Update id=115074989 is handled. Duration 187 ms by bot id=8369850091
+2025-08-25 12:23:38,419 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:23:38,421 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:23:38,422 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:23:38,424 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:33:44,325 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:33:45,028 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:33:45,028 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:33:45,186 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:33:53,135 - aiogram.event - INFO - Update id=115074990 is handled. Duration 530 ms by bot id=8369850091
+2025-08-25 12:33:55,590 - aiogram.event - INFO - Update id=115074991 is handled. Duration 265 ms by bot id=8369850091
+2025-08-25 12:34:13,252 - aiogram.event - INFO - Update id=115074992 is handled. Duration 545 ms by bot id=8369850091
+2025-08-25 12:34:25,358 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x00000151C2B1F4D0>
+2025-08-25 12:34:25,359 - aiogram.event - INFO - Update id=115074993 is handled. Duration 219 ms by bot id=8369850091
+2025-08-25 12:41:27,314 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:41:27,316 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:41:27,317 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:41:27,319 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:41:29,537 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:41:32,091 - __main__ - ERROR - Xatolik yuz berdi: Telegram server says Unauthorized
+2025-08-25 12:41:32,092 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:42:08,399 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:42:08,933 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:42:08,933 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:42:09,102 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:42:09,829 - aiogram.event - INFO - Update id=115074994 is handled. Duration 547 ms by bot id=8369850091
+2025-08-25 12:42:47,432 - aiogram.event - INFO - Update id=115074995 is handled. Duration 688 ms by bot id=8369850091
+2025-08-25 12:42:54,148 - aiogram.event - INFO - Update id=115074996 is handled. Duration 218 ms by bot id=8369850091
+2025-08-25 12:44:35,568 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:44:35,570 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:44:35,571 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:44:35,573 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:44:38,160 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:44:38,664 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:44:38,665 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:44:38,823 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:50:13,979 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:50:13,980 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:50:13,981 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:50:13,982 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:50:14,023 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001901F4165D0>
+2025-08-25 12:51:52,233 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:51:52,816 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:51:52,816 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:51:52,982 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:51:57,037 - aiogram.event - INFO - Update id=115074997 is handled. Duration 546 ms by bot id=8369850091
+2025-08-25 12:51:58,764 - aiogram.event - INFO - Update id=115074998 is handled. Duration 171 ms by bot id=8369850091
+2025-08-25 12:52:12,018 - aiogram.event - INFO - Update id=115074999 is handled. Duration 202 ms by bot id=8369850091
+2025-08-25 12:56:51,872 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:56:51,873 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:56:51,874 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:56:51,876 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:56:54,144 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:56:54,729 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:56:54,730 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:56:54,886 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:56:58,550 - aiogram.event - INFO - Update id=115075000 is handled. Duration 515 ms by bot id=8369850091
+2025-08-25 12:56:59,932 - aiogram.event - INFO - Update id=115075001 is handled. Duration 281 ms by bot id=8369850091
+2025-08-25 12:57:08,422 - aiogram.event - INFO - Update id=115075002 is handled. Duration 186 ms by bot id=8369850091
+2025-08-25 12:58:10,209 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-25 12:58:10,212 - __main__ - INFO - Bot to'xtatildi.
+2025-08-25 12:58:10,213 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:58:10,215 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-25 12:58:11,839 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-25 12:58:12,336 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-25 12:58:12,336 - aiogram.dispatcher - INFO - Start polling
+2025-08-25 12:58:12,516 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-25 12:58:15,594 - aiogram.event - INFO - Update id=115075003 is handled. Duration 500 ms by bot id=8369850091
+2025-08-25 12:58:16,714 - aiogram.event - INFO - Update id=115075004 is handled. Duration 187 ms by bot id=8369850091
+2025-08-25 12:58:30,508 - aiogram.event - INFO - Update id=115075005 is handled. Duration 218 ms by bot id=8369850091
+2025-08-26 01:56:50,768 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-26 01:56:51,376 - __main__ - INFO - Bot: @botyasemiz12_bot (ID: 8369850091)
+2025-08-26 01:56:51,377 - aiogram.dispatcher - INFO - Start polling
+2025-08-26 01:56:51,536 - aiogram.dispatcher - INFO - Run polling for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-26 01:58:10,848 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-26 01:58:10,848 - __main__ - INFO - Bot to'xtatildi.
+2025-08-26 01:58:10,864 - aiogram.dispatcher - INFO - Polling stopped for bot @botyasemiz12_bot id=8369850091 - 'bot yasemiz'
+2025-08-26 01:58:10,865 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-26 01:58:12,733 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-26 01:58:16,768 - __main__ - INFO - Bot: @botyaratuvch1_bot (ID: 8466263563)
+2025-08-26 01:58:16,769 - aiogram.dispatcher - INFO - Start polling
+2025-08-26 01:58:16,934 - aiogram.dispatcher - INFO - Run polling for bot @botyaratuvch1_bot id=8466263563 - 'bot yaratuvchi'
+2025-08-26 02:10:58,903 - aiogram.event - INFO - Update id=609838057 is handled. Duration 577 ms by bot id=8466263563
+2025-08-26 02:11:01,446 - aiogram.event - INFO - Update id=609838058 is handled. Duration 266 ms by bot id=8466263563
+2025-08-26 02:11:27,713 - aiogram.event - INFO - Update id=609838059 is handled. Duration 531 ms by bot id=8466263563
+2025-08-26 02:12:34,922 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-26 02:12:34,923 - __main__ - INFO - Bot to'xtatildi.
+2025-08-26 02:12:34,923 - aiogram.dispatcher - INFO - Polling stopped for bot @botyaratuvch1_bot id=8466263563 - 'bot yaratuvchi'
+2025-08-26 02:12:34,923 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-26 02:24:56,701 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-26 02:24:57,309 - __main__ - INFO - Bot: @botyaratuvch1_bot (ID: 8466263563)
+2025-08-26 02:24:57,309 - aiogram.dispatcher - INFO - Start polling
+2025-08-26 02:24:57,472 - aiogram.dispatcher - INFO - Run polling for bot @botyaratuvch1_bot id=8466263563 - 'bot yaratuvchi'
+2025-08-26 02:25:02,107 - aiogram.event - INFO - Update id=609838060 is handled. Duration 610 ms by bot id=8466263563
+2025-08-26 02:25:05,467 - aiogram.event - INFO - Update id=609838061 is handled. Duration 203 ms by bot id=8466263563
+2025-08-26 02:25:10,959 - aiogram.event - INFO - Update id=609838062 is handled. Duration 250 ms by bot id=8466263563
+2025-08-26 02:31:49,014 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-26 02:31:49,023 - __main__ - INFO - Bot to'xtatildi.
+2025-08-26 02:31:49,024 - aiogram.dispatcher - INFO - Polling stopped for bot @botyaratuvch1_bot id=8466263563 - 'bot yaratuvchi'
+2025-08-26 02:31:49,027 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-26 02:31:51,126 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-26 02:31:53,485 - __main__ - ERROR - Xatolik yuz berdi: Telegram server says Unauthorized
+2025-08-26 02:31:53,487 - __main__ - INFO - Bot to'xtatildi.
+2025-08-26 02:32:47,143 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-26 02:32:50,301 - __main__ - INFO - Bot: @amaliyot123_bot (ID: 7261239478)
+2025-08-26 02:32:50,301 - aiogram.dispatcher - INFO - Start polling
+2025-08-26 02:32:50,474 - aiogram.dispatcher - INFO - Run polling for bot @amaliyot123_bot id=7261239478 - 'amaliyot bot'
+2025-08-26 02:32:52,759 - aiogram.event - INFO - Update id=733730891 is handled. Duration 593 ms by bot id=7261239478
+2025-08-26 02:32:54,225 - aiogram.event - INFO - Update id=733730892 is handled. Duration 265 ms by bot id=7261239478
+2025-08-26 02:33:13,275 - aiogram.event - INFO - Update id=733730893 is handled. Duration 2046 ms by bot id=7261239478
+2025-08-26 02:33:19,307 - aiogram.event - INFO - Update id=733730894 is handled. Duration 218 ms by bot id=7261239478
+2025-08-26 02:33:24,449 - aiogram.event - INFO - Update id=733730895 is handled. Duration 391 ms by bot id=7261239478
+2025-08-26 02:33:34,789 - aiogram.event - INFO - Update id=733730896 is handled. Duration 297 ms by bot id=7261239478
+2025-08-26 02:33:47,233 - aiogram.event - INFO - Update id=733730897 is handled. Duration 219 ms by bot id=7261239478
+2025-08-26 02:34:05,871 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001FE987CE910>
+2025-08-26 02:34:05,873 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x000001FE987900C0>, 414079.343)]']
+connector: <aiohttp.connector.TCPConnector object at 0x000001FE987CE550>
+2025-08-26 02:34:05,873 - aiogram.event - INFO - Update id=733730898 is handled. Duration 2733 ms by bot id=7261239478
+2025-08-26 02:34:13,891 - aiogram.event - INFO - Update id=733730899 is handled. Duration 233 ms by bot id=7261239478
+2025-08-26 02:42:37,956 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-26 02:42:37,958 - __main__ - INFO - Bot to'xtatildi.
+2025-08-26 02:42:37,959 - aiogram.dispatcher - INFO - Polling stopped for bot @amaliyot123_bot id=7261239478 - 'amaliyot bot'
+2025-08-26 02:42:37,960 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
+2025-08-26 02:54:29,188 - __main__ - INFO - Asosiy bot ishga tushmoqda...
+2025-08-26 02:54:29,966 - __main__ - INFO - Bot: @amaliyot123_bot (ID: 7261239478)
+2025-08-26 02:54:29,966 - aiogram.dispatcher - INFO - Start polling
+2025-08-26 02:54:30,130 - aiogram.dispatcher - INFO - Run polling for bot @amaliyot123_bot id=7261239478 - 'amaliyot bot'
+2025-08-26 02:54:43,723 - aiogram.event - INFO - Update id=733730900 is handled. Duration 515 ms by bot id=7261239478
+2025-08-26 02:54:45,196 - aiogram.event - INFO - Update id=733730901 is handled. Duration 218 ms by bot id=7261239478
+2025-08-26 02:54:55,831 - aiogram.event - INFO - Update id=733730902 is handled. Duration 1625 ms by bot id=7261239478
+2025-08-26 02:54:58,777 - aiogram.event - INFO - Update id=733730903 is handled. Duration 218 ms by bot id=7261239478
+2025-08-26 02:55:16,630 - aiogram.event - INFO - Update id=733730904 is handled. Duration 2155 ms by bot id=7261239478
+2025-08-26 02:56:11,206 - aiogram.event - INFO - Update id=733730905 is handled. Duration 5093 ms by bot id=7261239478
+2025-08-26 02:56:17,637 - aiogram.event - INFO - Update id=733730906 is handled. Duration 202 ms by bot id=7261239478
+2025-08-26 02:56:27,570 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000022EC6FBDD90>
+2025-08-26 02:56:27,571 - asyncio - ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x0000022EC6F80B40>, 415421.14)]']
+connector: <aiohttp.connector.TCPConnector object at 0x0000022EC6FBEB50>
+2025-08-26 02:56:27,572 - aiogram.event - INFO - Update id=733730907 is handled. Duration 2688 ms by bot id=7261239478
+2025-08-26 02:56:32,920 - aiogram.event - INFO - Update id=733730908 is handled. Duration 202 ms by bot id=7261239478
+2025-08-26 02:56:42,638 - aiogram.event - INFO - Update id=733730909 is handled. Duration 327 ms by bot id=7261239478
+2025-08-26 02:56:45,899 - aiogram.event - INFO - Update id=733730910 is handled. Duration 234 ms by bot id=7261239478
+2025-08-26 02:56:47,334 - aiogram.event - INFO - Update id=733730911 is handled. Duration 218 ms by bot id=7261239478
+2025-08-26 02:56:49,187 - aiogram.event - INFO - Update id=733730912 is handled. Duration 202 ms by bot id=7261239478
+2025-08-26 02:56:51,049 - aiogram.event - INFO - Update id=733730913 is handled. Duration 217 ms by bot id=7261239478
+2025-08-26 02:56:53,864 - aiogram.event - INFO - Update id=733730914 is handled. Duration 266 ms by bot id=7261239478
+2025-08-26 02:56:57,925 - aiogram.event - INFO - Update id=733730915 is handled. Duration 233 ms by bot id=7261239478
+2025-08-26 02:56:59,697 - aiogram.event - INFO - Update id=733730916 is handled. Duration 204 ms by bot id=7261239478
+2025-08-26 02:57:02,413 - aiogram.event - INFO - Update id=733730917 is handled. Duration 217 ms by bot id=7261239478
+2025-08-26 02:57:51,131 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-26 02:57:51,136 - __main__ - INFO - Bot to'xtatildi.
+2025-08-26 02:57:51,137 - aiogram.dispatcher - INFO - Polling stopped for bot @amaliyot123_bot id=7261239478 - 'amaliyot bot'
+2025-08-26 02:57:51,140 - __main__ - INFO - Bot foydalanuvchi tomonidan to'xtatildi.
